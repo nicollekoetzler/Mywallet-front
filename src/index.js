@@ -1,11 +1,5 @@
 import ReactDOM from 'react-dom';
+import App from "./components/App"
 
-function App(){
-    return (
-        <>
-            
-        </>
-    )
-}
 
 ReactDOM.render(<App />, document.querySelector(".root"));
